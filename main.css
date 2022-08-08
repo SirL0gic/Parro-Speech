@@ -5,6 +5,38 @@ body {
 .header-container {
     background-color: #f1f1f1;
     overflow:hidden;
-    padding-top: 20px;
+    padding-top: 20px; 
     padding-bottom: 10px;
+}
+#header-title{
+    float: left;
+    padding-left: 10px;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+/* .header-container a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding:12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+} */
+
+.header-right a {
+    float: right;
+    margin-top: 15px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 4px;
+    padding-right: 12px;
+}
+.header-left {
+    float: left;
+
 }
