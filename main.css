@@ -1,0 +1,10 @@
+body {
+    margin:0;
+    padding:0;
+}
+.header-container {
+    background-color: #f1f1f1;
+    overflow:hidden;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
