@@ -49,3 +49,7 @@ body {
     grid-column-start: 1;
     grid-column-end: 5;
 }
+.grid-item3-more-heading {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
