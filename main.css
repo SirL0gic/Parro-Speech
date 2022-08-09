@@ -1,6 +1,7 @@
 body {
     margin:0;
     padding:0;
+    font-family: Montserrat;
 }
 .header-container {
     background-color: #f1f1f1;
@@ -17,21 +18,29 @@ body {
 }
 .header-right a {
     float: right;
-    margin-top: 15px;
+    margin-top: 8px;
     color: black;
     text-align: center;
     text-decoration: none;
     font-size: 18px;
     border-radius: 4px;
-    padding-right: 12px;
+    padding: 12px;
 }
 .header-left {
     float: left;
 }
+.header-right a:hover {
+    background-color:#b6f5b6;
+    color: black;
+}
+.header-right a.active {
+    background-color: #4cbb17;
+    color: white;
+}
 .grid-container-body{
     display: grid;
     grid-template-columns: auto auto auto auto;
-    gap: 10px;
+    gap: 1px;
     background-color: #2196F3;
     padding: 10px;
 }
