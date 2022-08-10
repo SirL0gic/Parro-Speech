@@ -62,3 +62,12 @@ body {
     grid-column-start: 1;
     grid-column-end: 5;
 }
+#speak-button{
+    color: #ffffff;
+    background-color: #45a717;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    width: 80px;
+    font-family: Montserrat;
+}
