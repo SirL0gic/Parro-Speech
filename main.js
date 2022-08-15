@@ -13,7 +13,6 @@ let speaknow = () => {
 
 };
 
-speak_button.onclick = function(e) {
-    e.preventDefault();
+speak_button.onclick = function(){
     speaknow();
 };
