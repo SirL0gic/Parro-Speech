@@ -87,3 +87,10 @@ body {
     width: 80px;
     font-family: Montserrat;
 }
+#tts-para{
+    font-size: 15px;
+    text-align:left;
+    padding-right: 8px;
+    padding-left: 8px;
+
+}
