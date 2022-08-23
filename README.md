@@ -2,7 +2,7 @@
 ### Overview
 Parro Speech is a simple website that utilizes audio synthesis. This project was created using the Web Speech API, more details can be found here https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
 
-### Live Version: https://codesandbox.io/s/parro-speech-ojg75n
+Live Version: https://codesandbox.io/s/parro-speech-ojg75n
 
 
 ### How to use?
